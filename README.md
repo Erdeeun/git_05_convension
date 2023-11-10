@@ -72,16 +72,10 @@ ___
 
 ### 줄바꿈 (Line breaks)
 바다 <br>
-하늘 <!--띄어쓰기 2번 이상>   
+하늘 <!--띄어쓰기 2번 이상-->   
 구름
 
-이젠강남점 수신자 모두 3:00 PM
-https://github.com/min-yoong/myhomepage.git
 
-이젠강남점 수신자 모두 3:09 PM
-https://github.com/min-yoong/dataproject
-
-이젠강남점 수신자 모두 5:37 PM
 ### 인라인(inline) 코드 강조
 `백티1개`는 `인라인 코드 강조`를 의미한다.
 
